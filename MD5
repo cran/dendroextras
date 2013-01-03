@@ -1,0 +1,17 @@
+7950e66d90a00571cdadaaa9a47e38a7 *DESCRIPTION
+56acc65fba8ee76071a2ec1f178a251e *NAMESPACE
+04c1d074678778723efd1f4c6c40e0b0 *NEWS
+b2d37ab56b9142f28e233d67f5470240 *R/colour_clusters.R
+56663074df9ca9a95bc17ff5e5798382 *R/dendroextras-package.R
+e2a5a955481f8301ff0ab1b7572bff8d *R/labels.R
+451a716936a1540c8d03db06033d046a *R/slice.R
+4fb83c1933c90429a8a108c4d7c03163 *inst/tests/test-colour-clusters.R
+3045c6ad3849fd67b8c93c4cc21debaf *inst/tests/test-labels.R
+d7dc5c92ffce0eda4c1424f00b348389 *inst/tests/test-slice.R
+e56101c2e1bd4777bc69606e729c45c0 *man/colour_clusters.Rd
+586e8139d45c05ef058421c042443257 *man/dendroextras-package.Rd
+67bda70950af9376a72c0e7c6c691fbd *man/labels-assign.Rd
+b64b02ffd2c630c3be486f1940dad0f9 *man/labels.hclust.Rd
+d694d28de22ae98c91661bdf7c4e4fe2 *man/leaf_colours.Rd
+dd5127b1ae66e56aa07fae079ae6d56a *man/slice.Rd
+6f673c7fb9f76d93856420bc356f0f06 *tests/test-all.R
