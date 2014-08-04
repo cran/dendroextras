@@ -11,10 +11,10 @@ Description: This package provides extra functions to manipulate dendrograms
     subtree is coloured, not just the terminal leaves. In addition it provides
     some utility functions to cut dendrogram and hclust objects and to set/get
     labels.
-Version: 0.2
-Date: 2014-06-08
+Version: 0.2.1
+Date: 2014-08-04
 Suggests: testthat
-Packaged: 2014-06-08 16:04:12 UTC; jefferis
+Packaged: 2014-08-04 20:41:33 UTC; jefferis
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-06-08 19:06:45
+Date/Publication: 2014-08-05 00:24:21
